@@ -1,5 +1,4 @@
-# bed-management-platform
-Resumen Ejecutivo 
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
